@@ -17,4 +17,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **David De La Hoz** - [daviddlhz](https://github.com/daviddlhz)
+* **Hugo Santiago** - [hfsantiago](https://github.com/hfsantiago)
